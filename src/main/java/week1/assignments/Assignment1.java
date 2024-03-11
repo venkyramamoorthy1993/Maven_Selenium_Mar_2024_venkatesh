@@ -6,10 +6,10 @@ public class Assignment1 {
 	public void evenOrOdd(int number) {
 		for (int i = 1; i <= number; i++) {
 			if(i%2==0){
-				System.out.println(i+" is Even Number");
+				System.out.println(i+" is an Even Number");
 			}
 			else if(i%2==1) {
-				System.out.println(i+" is Odd Number");
+				System.out.println(i+" is an Odd Number");
 			}
 		}
 	}
